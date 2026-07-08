@@ -1,22 +1,5 @@
-# NOCTURNE — Project Documentation & LinkedIn Post
+# NOCTURNE — Project Documentation
 
-## LinkedIn Post (ready to copy-paste)
-
----
-
-Spent way too much of my weekend building a perfume brand that doesn't exist, just to see how far I could push a scroll animation.
-
-There's no product photography anywhere on the site. The bottle is code — a 2D silhouette spun into 3D, real glass refraction, a gold cap that actually lifts off partway through the page. As you scroll, the camera drifts through it like a tiny film: wide shot at the top, in close for "top notes," swings around the other side for "heart notes," pulls back out for the final call to action.
-
-The 3D part was honestly the easy bit. First version I rendered, the entire screen lit up solid white — turns out I had no real intuition for how bright three point lights plus bloom actually gets until I saw it. Then I built this whole "cap lifts off the bottle" reveal for the craft section, scrolled down to admire it... and the camera was zoomed in so tight the cap was completely off screen. None of that shows up reading the code. Had to actually run the thing, screenshot my way down the page, and fix it like any other design problem.
-
-Stack: React, Three.js / React Three Fiber, GSAP + Lenis for the scroll, a hand-rolled particle shader, Framer Motion for the UI polish.
-
-Built with Claude Code, start to finish.
-
-#threejs #webgl #react #creativecoding
-
----
 
 ## Behind the scenes: how it was created
 
